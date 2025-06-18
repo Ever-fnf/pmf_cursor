@@ -6,15 +6,15 @@
 ---
 
 ## 📁 프로젝트 구조
-pmf_cursor/
-├── ga4/ # GA4 트래픽 분석 대시보드
-│ ├── streamlit_ga4.py
-│ └── requirements.txt
-├── titanic/ # Titanic 생존 시각화 대시보드
-│ ├── streamlit_titanic.py
-│ └── requirements.txt
-├── .gitignore
-└── README.md
+pmf_cursor/  
+├── ga4/ # GA4 트래픽 분석 대시보드  
+│ ├── streamlit_ga4.py  
+│ └── requirements.txt  
+├── titanic/ # Titanic 생존 시각화 대시보드  
+│ ├── streamlit_titanic.py  
+│ └── requirements.txt  
+├── .gitignore  
+└── README.md  
 
 ---
 
