@@ -20,8 +20,8 @@ pmf_cursor/
 
 ## 📊 배포된 앱 링크
 
-- 🔗 [GA4 대시보드 바로가기](https://pmf-ga4.streamlit.app/)
-- 🔗 [Titanic 예측 대시보드](https://pmf-titanic2.streamlit.app/)
+- 🔗 [GA4 트래픽 분석 대시보드](https://pmf-ga4.streamlit.app/)
+- 🔗 [Titanic 시각화 대시보드](https://pmf-titanic2.streamlit.app/)
 
 ---
 
