@@ -1,4 +1,7 @@
+# C:/cursor/pmf_study/.gitignore
 venv/
-pmf_cursor_study/
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
+.env
